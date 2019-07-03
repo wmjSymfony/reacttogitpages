@@ -1,7 +1,7 @@
 {
   "name": "introduce",
   "version": "0.1.0",
-  "homepage": "https://你的github名字.github.io/你的仓库名字",
+  "homepage": "https://wmjSymfony.github.io/reacttogitpages",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
